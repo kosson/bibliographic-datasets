@@ -1,0 +1,29 @@
+---
+alias: SWIB
+type: workshop
+event: SWIB 2012
+year: "2012"
+partof: ""
+tags:
+  - "#legal"
+  - "#RDF"
+  - "#RDFs"
+  - "#SPARQL"
+  - "#vocabularies"
+title: Introduction to Linked Open Data
+alt: ""
+resources:
+  - https://swib.org/swib12/slides/Christoph_SWIB12_144.zip
+author:
+  - Felix Ostrowski
+  - Pascal Christoph
+  - Adrian Pohl
+abstract: |-
+  This introductory workshop aims to introduce the fundamentals of Linked Data technologies on the one hand, and the basic legal issues of Open Data on the other. The RDF data model will be discussed, along with the concepts of dereferencable URIs and common vocabularies. The participants will continuously create and refine RDF documents to strengthen their knowledge on the topic. Linked Data tenets such as publishing RDF descriptions in a web environment and utilizing Content-Negotiation will be demonstrated and applied by the participants. Aggregating data from several sources and querying this data will showcase the advantages of publishing Linked Data, and RDF Schema will be introduced as an effective way of data integration. On a side track, Open Data principles will be introduced, discussed and applied to the content that is being created during the workshop.  
+  **Workshop outcomes**: The participants will have created openly licenced RDF descriptions of themselves, published these to a webserver, aggregated the data into a triplestore against which SPARQL queries are then executed. The possibilities of using RDFs to integrate data across vocabularies have been explored.
+---
+# Introduction to Linked Open Data
+[[Felix Ostrowski]], [[Pascal Christoph]], [[Adrian Pohl]]
+
+This introductory workshop aims to introduce the fundamentals of Linked Data technologies on the one hand, and the basic legal issues of Open Data on the other. The RDF data model will be discussed, along with the concepts of dereferencable URIs and common vocabularies. The participants will continuously create and refine RDF documents to strengthen their knowledge on the topic. Linked Data tenets such as publishing RDF descriptions in a web environment and utilizing Content-Negotiation will be demonstrated and applied by the participants. Aggregating data from several sources and querying this data will showcase the advantages of publishing Linked Data, and RDF Schema will be introduced as an effective way of data integration. On a side track, Open Data principles will be introduced, discussed and applied to the content that is being created during the workshop.
+<strong>Workshop outcomes</strong>: The participants will have created openly licenced RDF descriptions of themselves, published these to a webserver, aggregated the data into a triplestore against which SPARQL queries are then executed. The possibilities of using RDFs to integrate data across vocabularies have been explored.
